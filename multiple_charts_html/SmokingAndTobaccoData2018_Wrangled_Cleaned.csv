@@ -1,0 +1,42 @@
+Location,CigaretteSmokingPrevalence,TobaccoSmokingPrevalence,TobaccoUsePrevalance,HealyWarningsOnSmoking,CheapestBrandCigaretteCurrency,MostSoldBrandCigaretteCurrency,MostSoldBrandCigarettePrice,PremiumBrandCigarettePrice,TreatmentInHealthFacilities,Region
+Albania,43.3,50.5,50.5,No,200,All,240,320,Yes in some,Europe
+Algeria,11.1,14.5,18.8,No,45,DZD,300,300,Yes in some,Africa
+Andorra,27.7,33.8,33.8,Not applicable,2.8,EUR,3.6,3.6,No,Europe
+Argentina,19.2,21.1,21.8,Yes,28.57,ARS,60,63,Yes in most,South America
+Armenia,25.0,26.7,26.7,Not applicable,300,AMD,680,700,Yes in some,Asia
+Australia,12.9,14.1,16.2,No,20.75,AUD,20.75,25.2,Yes in most,Oceania
+Austria,27.0,29.1,29.1,No,4.4,EUR,5.5,5.5,Yes in some,Europe
+Azerbaijan,15.6,19.6,19.6,Not applicable,0.6,AZN,1.2,2.6,No,Asia
+Bahamas,2.5,18.6,18.6,Not applicable,Data not available,Data not available,Data not available,Data not available,Yes in some,North America
+Bahrain,13.8,3.8,41.5,Not applicable,0.8,BHD,2,2,Yes in some,Asia
+Bangladesh,17.7,20.9,39.1,Yes,80,BDT,80,240,Yes in some,Asia
+Barbados,10.1,2.0,2.3,Yes,8.59,BBD,14.65,18.99,No,North America
+Belarus,39.9,26.6,26.6,Not applicable,0.95,BYN,1.1,3.1,Yes in most,Europe
+Belgium,23.4,25.0,25.0,No,5.5,EUR,6.6,6.6,Yes in some,Europe
+Benin,4.1,11.3,12.4,No,225,XOF,500,"1,000",No,Africa
+Bosnia and Herzegovina,30.9,38.3,38.3,Not applicable,4,BAM,5.5,5.8,Yes in most,Europe
+Botswana,2.8,33.3,23.7,Not applicable,26.95,BWP,38.95,Data not available,Yes in some,Africa
+Brazil,15.3,17.2,16.5,No,5,BRL,5,8,Yes in some,South America
+Bulgaria,35.8,38.9,38.9,No,4.5,BGN,5.2,5.5,Yes in some,Europe
+Burkina Faso,10.0,12.3,24.9,Yes,250,XOF,750,900,No,Africa
+Burundi,14.3,2.2,18.8,No,Data not available,BIF,"1,600","11,000",No,Africa
+Cambodia,16.1,2.0,37.4,Yes,700,KHR,"2,000","7,000",No,Asia
+Canada,12.5,13.0,17.5,No,7.12,CAD,11.81,11.91,Yes in most,North America
+Chile,34.5,44.7,44.7,Yes,"2,100",CLP,"2,700","3,600",No,South America
+China,22.6,24.7,24.7,Not applicable,3,CNY,14.07,50,Yes in some,Asia
+Colombia,3.3,3.7,3.7,Yes,"2,662",COP,"4,003","5,202",Yes in some,South America
+Costa Rica,4.5,5.0,5.0,Yes,"1,500",CRC,"1,900","2,100",Yes in some,North America
+Croatia,33.1,36.6,36.6,No,16,HRK,25,28,Yes in some,Europe
+Cuba,19.4,27.1,27.1,No,7,CUP,12.5,32.5,Yes in most,North America
+Cyprus,29.9,36.7,36.7,No,3.8,EUR,4.5,4.9,Yes in some,Europe
+Fiji,34.6,26.7,26.7,Not applicable,13.4,FJD,14.2,17.3,Yes in some,Oceania
+Israel,21.7,25.5,25.5,No,26.5,ILS,36,38.5,Yes in some,Middle East
+Kiribati,41.7,52.0,52.0,No,4,AUD,6,7,Yes in most,Oceania
+Kuwait,15.0,2.1,3.4,Yes,0.3,KWD,0.85,0.85,Yes in some,Middle East
+Lebanon,25.9,34.0,42.6,No,500,LBP,"3,500","3,500",Yes in some,Middle East
+Nauru,37.6,46.0,52.1,No,13,AUD,13,15,No,Oceania
+New Zealand,14.0,14.8,14.8,Yes,21.5,NZD,23.9,26.9,Yes in most,Oceania
+Oman,11.5,15.2,18.5,Not applicable,0.45,OMR,1.2,1.2,No,Middle East
+Palau,22.7,28.5,23.7,Not applicable,6.25,USD,6.85,7.5,Yes in some,Oceania
+Qatar,10.2,11.8,14.0,Not applicable,3.5,QAR,10,10,Yes in some,Middle East
+Zimbabwe,11.1,13.9,13.9,No,0.9,USD,1.75,2.5,No,Africa
