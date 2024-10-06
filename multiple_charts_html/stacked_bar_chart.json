@@ -1,0 +1,35 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 800,
+  "height": 600,
+  "title": "Distribution of Tobacco Use Prevalence by Region",
+  "data": {
+    "url": "https://raw.githubusercontent.com/CaiHeShun/Vega-Lite/main/multiple_charts_html/SmokingAndTobaccoData2018_Wrangled_Cleaned.csv"
+  },
+  "mark": "bar",
+  "encoding": {
+    "x": {"field": "Region", "type": "nominal", "title": "Region"},
+    "y": {"aggregate": "count", "title": "Number of Countries"},
+    "color": {
+      "field": "TobaccoUsePrevalance",
+      "type": "quantitative",
+      "title": "Tobacco Use Prevalence (%)",
+      "scale": {"scheme": "blues"}
+    },
+    "tooltip": [
+      {"field": "Region", "type": "nominal", "title": "Region"},
+      {
+        "aggregate": "count",
+        "field": "Location",
+        "type": "quantitative",
+        "title": "Number of Countries"
+      },
+      {
+        "field": "TobaccoUsePrevalance",
+        "type": "quantitative",
+        "title": "Tobacco Use Prevalence (%)"
+      }
+    ]
+  },
+  "config": {}
+}
