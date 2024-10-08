@@ -5,7 +5,7 @@
   "height": 400,
   "projection": {"type": "equalEarth"},
   "data": {
-    "url": "https://raw.githubusercontent.com/CaiHeShun/Vega-Lite/main/ne_110m.json",
+    "url": "https://raw.githubusercontent.com/CaiHeShun/Vega-Lite/main/choropleth_map/ne_110m.json",
     "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
   },
   "transform": [
@@ -13,7 +13,7 @@
       "lookup": "properties.NAME",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/CaiHeShun/Vega-Lite/main/smoking-rates-by-country-2024.csv",
+          "url": "https://raw.githubusercontent.com/CaiHeShun/Vega-Lite/main/choropleth_map/smoking-rates-by-country-2024.csv",
           "format": {"type": "csv"}
         },
         "key": "country",
